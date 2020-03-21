@@ -1,0 +1,22 @@
+div{
+    width:50%;
+    height:40px;
+}
+div span{
+    display:inline-block;
+    width:20%;
+    line-height:40px;
+}
+div input[type='text']{
+    border-radius:3px;
+    outline: none;
+}
+div input[type='submit']{
+    width:100px;
+    height:38px;
+    color:#ffffff;
+    background-color:#666666;
+    border-radius:3px;
+    margin-left:20%;
+    outline: none;
+}
